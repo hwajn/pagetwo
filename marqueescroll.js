@@ -1,4 +1,4 @@
-var rssContent = 'JUST STARTED INVISALIGN';
+var rssContent = 'tigertigertiger';
 $('.marquee').html(rssContent);
 
 /*Start of Plugin*/
